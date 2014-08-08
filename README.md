@@ -4,7 +4,9 @@ CSS3MultiColumn
 An update to CSS3MultiColumn by Cédric Savarese to support HTML5 elements.
 
 The original code can be found here:
-http://www.csscripting.com/css-multi-column/
+~~http://www.csscripting.com/css-multi-column/~~
+
+^^ Dead link. The orignal repo that references this link is [here](https://github.com/BetleyWhitehorne/CSS3MultiColumn)
 
 
 ### Initializing
